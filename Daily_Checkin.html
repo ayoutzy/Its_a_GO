@@ -3,8 +3,22 @@
     <head>
         <title>Daily_Checkin</title>
         <body>
-            <H1>Daily_Checkin</H1>
+            <H1>Daily_Checkin</H1><br>
+           <h2>Daily Self Temperature Check</h2>
+           <input type="number" min="95" max="105"     placeholder="98.6"> <br>
+           <h2>In the last 24 hours have you experienced any of the following symptoms</h2>
+           <div>Click on all that apply to your household:</div>
+        <input type="checkbox">     </label>New cough</label>            <br>
+        <input type="checkbox">     </label>Shortness of Breath</label>            <br>
+        <input type="checkbox">     </label>Loss of taste or smell</label>            <br>
+        <input type="checkbox">     </label>Sore throat</label>            <br> <br>
+           
+            <h3>If you checked any boxes above or your temperature is over 100</h3>
+            <input type="button"   value="Submit" onclick="location.href= 'Stayhome.html'"><br></body>
+<br>
+<h3>If your boxes are still unchecked and your temperature is between 96 and 99</h3>
+<input type="button"   value="Submit" onclick="location.href= 'Cleared.html'"><br></body>
+<br>
             <a href="index.html">Home</a>
-        </body>
     </head>
 </html>

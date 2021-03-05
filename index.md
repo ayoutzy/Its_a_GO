@@ -1,8 +1,11 @@
 ## Welcome to GitHub Pages
 
-[Register](Register.html)
-[Daily_Checkin](Daily_Checkin.html)
-[Logon](Logon.html)
+[Register](Register.html)<br>
+<br>
+[Daily_Checkin](Daily_Checkin.html)<br>
+<br>
+[Logon](Logon.html)<br>
+<br>
 [Logoff](Logoff.html)
 
 
