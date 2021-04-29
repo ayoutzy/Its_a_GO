@@ -8,5 +8,6 @@
 <br>[Personal Test Results](Personaltestresults.html)
 <br><br>
 <br>[Production Reports](ProductionReports.html)<br><br>
+<br>[Health Safety Officer](HSO.html)<br><br>
 [Logoff](Logoff.html)
 
